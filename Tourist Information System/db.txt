@@ -1,0 +1,171 @@
+4
+1
+Johor
+3
+Culture
+2
+Royal Abu Bakar Museum
+Royal Abu Bakar Museum, Grand Palace, 80500 Johor Bahru, Johor, Malaysia
+Sat - Thu
+09:00 - 17:00
+07-223 0555
+15.00
+Historical
+Shopping
+3
+Johor Bahru
+N/A
+N/A
+N/A
+N/A
+40
+2
+Johor Bahru City Square
+Danga City Mall
+Sport
+1
+Millenium Sport Centre
+PTD 62580, Jalan Skudai, Batu 8 1/2, Skudai, 81300 Johor Bahru, Johor, Malaysia
+Mon - Sun
+09:00 - 24:00
+07-554 5522
+13
+Badminton, Futsal
+2
+Kuala Lumpur
+4
+Culture
+2
+Natural History Museum
+Jalan Diplomatik, Presint 15, 62000 Putrajaya, Wilayah Persekutuan, Malaysia
+Mon - Sun
+09:00 - 17:00
+03-8890 2884
+12.00
+Historical
+Sport
+1
+Xtion Paintball
+National Xtreme Sports Park, National Sports Complex Bukit Jalil, 57000 Kuala Lumpur, Malaysia
+Mon - Sun
+09:00 - 17:45
+03-8027 0658
+13
+Paintball
+Shopping
+3
+Bukit Bintang
+N/A
+N/A
+N/A
+N/A
+60
+3
+Pavilion KL
+Berjaya Times Square
+Low Yat Plaza
+Culture
+2
+National Museum
+Jalan Damansara, 50566 Wilayah Persekutuan, Wilayah Persekutuan Kuala Lumpur, Malaysia
+Mon - Sun
+09:00 - 18:00
+03-2282 6255
+8.00
+Historical
+3
+Malacca
+4
+Culture
+2
+Malacca Islamic Museum
+Melaka Islamic Museum, Jalan Kota, 75000 Melaka, Malaysia
+Tue - Sun
+09:00 - 17:30
+06-282 1303
+8.00
+Religious
+Sport
+1
+Melaka International Bowling Centre
+Jalan Konvensyen, Kompleks MITC, Hang Tuah Jaya, 75450 Ayer Keroh
+Mon - Sun
+10:00 - 01:00
+06-234 6780
+18
+Bowling
+Shopping
+3
+Malacca City
+N/A
+N/A
+N/A
+N/A
+50
+2
+Dataran Pahlawan Melaka Megamall
+Mahkota Parade
+Culture
+2
+Malacca Al-Quran Museum
+Muzium Al-quran Melaka, Jalan Solok Balik Bukit, 75400 Melaka, Malaysia
+Tue - Sun
+09:00 - 17:30
+06-283 0926
+10.00
+Religious
+4
+Penang
+5
+Culture
+2
+Penang Islamic Museum
+128 Lebuh Armenian, George Town, Penang Island 10200, Malaysia
+Wed - Mon
+09:30 - 18:00
+04-262 0172
+10.00
+Religious
+Sport
+1
+PKSA Penang Water Sports Centre
+Jalan Batu Ferringhi, 11200, Tanjung Bungah, Pulau Pinang
+Mon - Sun
+09:30 - 17:00
+04-890 9373
+13
+Water Sports
+Shopping
+3
+Gurney Drive
+N/A
+N/A
+N/A
+N/A
+40
+2
+Gurney Plaza
+Sunway Carnival Mall
+Culture
+2
+Batik Painting Museum
+19 Armenian Street, 10200 Penang, Penang Island, Malaysia
+Mon - Sun
+10:00 - 18:00
+04-262 4800
+12.00
+Painting
+Sport
+1
+Penang Sports Club
+Jalan Utama, 10450 George Town, Pulau Pinang, Malaysia
+Mon - Sun
+07:30 - 00:00
+04-229 7834
+18
+Snooker, Squash, Tennis
+4
+0 0 1 0 
+0 0 1 1 
+1 1 0 1 
+0 1 1 0 
