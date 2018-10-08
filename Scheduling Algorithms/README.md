@@ -6,6 +6,8 @@
 * Shortest Remaining Time Next Scheduling (Kia Kin)
 
 # Instructions
+Python 2 is used.
+
 ## Running Three-level Queue
 ```
 python tlq_main.py
