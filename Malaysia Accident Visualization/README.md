@@ -1,4 +1,6 @@
 # Malaysia Accident Visualization
+[Live on GitHub Pages](https://johnkhor.github.io/university-assignments/Malaysia%20Accident%20Visualization/index.html)
+
 # Dataset
 http://www.data.gov.my/data/en_US/dataset/statistik-kemalangan-jalan-raya-mengikut-jenis-kemalangan-dan-kecederaan
 
