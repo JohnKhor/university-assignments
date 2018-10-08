@@ -84,7 +84,7 @@ function fourth(data) {
         .attr('class', 'd3-tip')
         .offset([-10, 0])
         .html(function(d) {
-          return "<strong>Country: </strong><span class='details'>" + d.country + "<br></span>" + "<strong>Number of Employees: </strong><span class='details'>" + d.num_employees +"</span>";
+          return "<strong>Country: </strong><span class='details'>" + d.country + "<br></span>" + "<strong>Number of Jobs: </strong><span class='details'>" + d.num_employees +"</span>";
         })
     svg.call(tip);
 
