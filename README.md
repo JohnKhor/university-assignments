@@ -18,12 +18,12 @@ Some assignments I did during degree at Multimedia University.
 
 ## Scheduling Algorithms 
 * Operating Systems group assignment. 
-* Written in Python.
+* Written in Python 2.
 * [Link to code](https://github.com/JohnKhor/university-assignments/tree/master/Scheduling%20Algorithms)
 
 ## Network Topology Filtering 
 * Computer Networks individual assignment. 
-* Written in Python.
+* Written in Python 2.
 * [Link to code](https://github.com/JohnKhor/university-assignments/tree/master/Network%20Topology%20Filtering)
 
 ## Fractional Knapsack Analysis 
